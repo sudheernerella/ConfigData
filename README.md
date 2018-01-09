@@ -1,2 +1,0 @@
-name=aashu
-grade=third
